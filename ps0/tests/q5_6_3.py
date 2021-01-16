@@ -1,1 +1,0 @@
-test = {'name': 'q5_6_3', 'points': 1, 'suites': [{'cases': [{'code': '>>> latest_year == 2017\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
